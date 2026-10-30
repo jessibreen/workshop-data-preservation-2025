@@ -41,3 +41,14 @@ Content was developed and delivered by **Jessica Breen** and **Olivia Ivey**.
 Breen, J. and Olivia Ivey (2025). *Data Preservation Workshop: Bringing Data Back from the Dead!* (workshop materials).  
 Geospatial Research Lab, American University Library.  
 https://github.com/jessibreen/workshop-data-preservation-2025
+
+---
+
+## License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.
+
+[![License: CC BY-NC-SA 4.0](https://shields.io)](https://creativecommons.org)
+
+For the full legal code, please read the [Official CC BY-NC-SA 4.0 Legal Deed](https://creativecommons.orglegalcode).
+
