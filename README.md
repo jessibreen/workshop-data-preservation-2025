@@ -32,7 +32,7 @@ Digital data doesn’t always stay put. Websites change, tools disappear, and va
 ## Partners / Series
 
 This workshop was part of **Scary Data Week** at American University Library.  
-Content was developed and delivered by the **Geospatial Research Lab**.
+Content was developed and delivered by **Jessica Breen** and **Olivia Ivey**.
 
 ---
 
@@ -40,4 +40,4 @@ Content was developed and delivered by the **Geospatial Research Lab**.
 
 Breen, J. and Olivia Ivey (2025). *Data Preservation Workshop: Bringing Data Back from the Dead!* (workshop materials).  
 Geospatial Research Lab, American University Library.  
-https://github.com/GeospatialResearchLab/workshop_data_preservation_2025
+https://github.com/jessibreen/workshop-data-preservation-2025
